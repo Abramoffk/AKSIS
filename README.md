@@ -1,6 +1,6 @@
 # AKSIS
-| Задача | Описание |fmfkfkfkf |
+| Задача | Описание | Вирус  |
 | -----|------|------|
-| Java Script | javascript |fkfkfkfkfkkf |
-| C++ |cpp| kfjfjfjfjkfjf|
+| Java Script | javascript | avascript |
+| C++ |cpp| lol  |
 
