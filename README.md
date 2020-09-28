@@ -16,4 +16,3 @@
 |Python|python|
 
 |SQL|sql|
-Леша пидор 
