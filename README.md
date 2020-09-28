@@ -1,6 +1,6 @@
 # AKSIS
-| Задача | Описание | Вирус  |
-| -----|------|------|
-| Java Script | javascript | avascript |
-| C++ |cpp| lol  |
+| Задача | Описание | Статус |  Ссылка |
+| -----|------|------| ------|
+| Java Script | javascript | avascript ||
+| C++ |cpp| lol  ||
 
